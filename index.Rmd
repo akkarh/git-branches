@@ -11,6 +11,7 @@ library("ggplot2")
 This is a highly informative pie chart:
 
 ```{r}
+
 # Hadley (and Joel)'s favourite pie chart
 df <- data.frame(
   variable = c("does not resemble", "resembles"),
